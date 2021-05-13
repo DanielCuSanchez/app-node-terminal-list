@@ -1,0 +1,17 @@
+{
+  "name": "04-aplicacion-todo-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-index.js",
+  "scripts": {
+    "menu": "node 01-index.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.0.0"
+  }
+}
